@@ -1,0 +1,14 @@
+{
+  "name": "protrusion2626",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ufa365 Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ ufa365 เว็บเดิมพันออนไลน์ ที่เล่นเกมได้ครบทุกแบบที่นี่",
+  "keywords": [
+    "ufa365 Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ ufa365 เว็บเดิมพันออนไลน์ ที่เล่นเกมได้ครบทุกแบบที่นี่"
+  ],
+  "repository": "https://github.com/yorkinyellow/protrusion2626",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
